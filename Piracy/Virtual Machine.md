@@ -1,0 +1,4 @@
+## Virtual Machine
+
+  * [Browser.cool](https://browser.cool/) – Use browser.cool: The internet, as it is supposed to be. Without restrictions by your provider, your hotel or third parties. Easier than a VPN: No setup or configuration required, directly in your browser. **Ready to use in 3 minutes.**
+  * [VirtualBox](https://www.virtualbox.org/) – VirtualBox is a powerful x86 and AMD64/Intel64 [virtualization](https://www.virtualbox.org/wiki/Virtualization) product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 2. See “[About VirtualBox](https://www.virtualbox.org/wiki/VirtualBox)” for an introduction.

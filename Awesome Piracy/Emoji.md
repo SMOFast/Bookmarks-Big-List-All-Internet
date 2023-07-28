@@ -1,0 +1,3 @@
+## Emoji
+
+You will notice some items on this list have a ![:star2:](/static/twemoji/1f31f.png) next to them. Items with a ![:star2:](/static/twemoji/1f31f.png) represent the author's top pick for that category. This is an entirely opinionated rating from someone who doesn't know everything about every item on the list, so be sure to check out alternative options before assuming something is "the best". That said, I do explore and test every resource I add to this list wherever possible.

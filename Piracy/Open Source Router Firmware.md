@@ -1,0 +1,4 @@
+## Open Source Router Firmware
+
+  * [OpenWRT](https://firmware-selector.openwrt.org/) – The OpenWrt Project is a Linux operating system targeting embedded devices. Instead of trying to create a single, static firmware, OpenWrt provides a fully writable filesystem with package management. This frees you from the application selection and configuration provided by the vendor and allows you to customize the device through the use of packages to suit any application.
+  * [FreshTomato](https://www.freshtomato.org/) – A system based on [Linux](https://en.wikipedia.org/wiki/Linux), dedicated for routers with [Broadcom](https://en.wikipedia.org/wiki/Broadcom_Corporation) chipset and distributed on the [GPL license](https://www.gnu.org/licenses/gpl-2.0.en.html). This advanced system consists of a particularly [friendly interface](https://www.freshtomato.org/screenshots.html), thanks to which even inexperienced users can easily work with it.

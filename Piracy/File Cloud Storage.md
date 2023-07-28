@@ -1,0 +1,3 @@
+## File Cloud Storage
+
+  * [MEGA](https://mega.nz/security/aff=jU9F0UvPiqA) – **Zero Knowledge Encryption (User-Controlled End-to-End Encryption)**. **All your data on MEGA is encrypted with a key derived from your password; in other words, your password is your main encryption key**. **MEGA does not have access to your password or your data. Using a strong and unique password will ensure that your data is protected from being hacked and gives you total confidence that your information will remain just that – yours**. MEGA recommends generating a unique strong password and storing it using a password manager such as: [Bitwarden](https://bitwarden.com/) [Keepass](https://keepass.info/download.html)

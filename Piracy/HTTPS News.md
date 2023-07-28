@@ -1,0 +1,7 @@
+## HTTPS News
+
+**This section is not finished.**
+
+  * HTTPS wrongly gets advertised as secure, which is not the case, there are bunch of scenarios in which HTTPS fails to protect the users. Self-hosting won't solve much because even self-hosted setup would have to talk to the outside world in the end.
+  * Proxies like Squid can do HTTPS intercepting. Certificate transparency effectively solves this because certain browsers, currently only Safari and Chrome require all new certificates be submitted to multiple certificate transparency lists \- if it encounters a certificate that isn't, it’ll show a warning page before establishing the TLS session. This doesn’t stop interception at all, but the first time it happens that some huge website notices a certificate they didn’t authorize and/or should be blocked by their CAA records, it’ll be a large event with disastrous consequences for the CA, likely triggering immediate within under <48 hours removal from publicly trusted CA lists. This happened already, see here. Countries could ban HTTPS.
+  * Tor network helps against many vulnerabilities HTTPS has. With Tor, every domain generates their own public/private key pair (which represents the domain itself) hence making it impractical for actors to break all of them (in fact, breaking even one of the 128-bit ed25519 keys would be a breakthrough in cryptography).
